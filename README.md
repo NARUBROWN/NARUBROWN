@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
 - ☺️ Studying....
-- 
+
   <img src="https://img.shields.io/badge/java-DA3630?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
