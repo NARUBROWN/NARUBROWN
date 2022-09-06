@@ -15,11 +15,6 @@
   <img src="https://img.shields.io/badge/java-DA3630?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  
-
-- 👌🏻 Solved.ac Rank...
-
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=back2thecode)](https://solved.ac/back2thecode)
 
 - 😁 My Blog
 
